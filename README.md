@@ -1,6 +1,6 @@
 # Cancer-App
 
-# Cancer-App
+
 A machine learning-powered Cancer Detection App built with Streamlit that predicts whether tumor cells are malignant or benign using patient data. Features interactive visualizations, including radar charts, and a clean, user-friendly interface.
 # 🩺 Cancer Detection App
 
